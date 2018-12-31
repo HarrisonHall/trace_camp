@@ -45,5 +45,9 @@ class Pets:
             pet.walk()
         
 
-my_pets = Pets([Dog("Tom",6),Dog("Fletcher",7),Dog("Larry",9)])
+my_pets = Pets([Dog("Tom",6),
+                Dog("Fletcher",7),
+                Dog("Larry",9)]
+)
+
 my_pets.walk()
