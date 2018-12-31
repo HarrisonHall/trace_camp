@@ -6,5 +6,5 @@
 ---
 
 More Resources  
-[peps1](https://www.python.org/dev/peps/pep-0020/)  
-[peps2](https://www.python.org/dev/peps/pep-0020/)
+[Pep 20](https://www.python.org/dev/peps/pep-0020/)  
+

@@ -8,4 +8,4 @@ if __name__ == '__main__':
     query_name = input()
 
     x = sum(student_marks[query_name])
-    print("%.2f" % (x/3))
+    print("%.2f" % (x/len(x)))
