@@ -1,0 +1,9 @@
+(% for nasa_comment in nasa_comments %)
+<img src="{{ nasa_comment.url }}">
+<p>
+  Comment: {{nasa_comment.comment}}<br>
+  {{nasa_comment.rating}}/5<br>
+  {{nasa_comment.favorite}}<br>
+  {{nasa_comment.date}}
+</p>
+(% endfor %) 
